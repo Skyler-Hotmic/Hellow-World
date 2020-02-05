@@ -1,2 +1,2 @@
-# Hellow-World
+# Hello-World
 Refreshing myself on github
